@@ -1,3 +1,10 @@
+.venv/
+aligns_______/
+aligns_0.5_0.5_0.5_0.5_15_0.3_0.5/
+automatic_sem_cabecalho/
+manual_transcriptions/
+prosodic/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

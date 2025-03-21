@@ -1,0 +1,333 @@
+através do mecanismo de multiplicação ao emprestarem eh o dinheiro que os depositantes deixam no banco
+bom hoje então a gente vai começar demanda de moeda
+a gente quer saber agora quais as razões que faz que fazem com que ah
+eh ah quais as razões que levam as pessoas a demandarem moeda a procurarem moeda a guardarem moeda
+a moeda como tal
+o que por que as pessoas retêm moeda ao invés de comprar títulos comprar artigos comprar imóveis
+o que faz com que num determinado instante de tempo as pessoas tenham moeda no bolso
+ou seja quais os motivos que explicam a demanda de moeda
+por que as pessoas procuram moeda por que as pessoas retêm moeda
+essa é a nossa preocupação hoje
+razões ou motivo pelas quais as pessoas eh demandam moeda
+existem três motivos clássicos pelos quais as pessoas retêm moeda
+são três motivos
+ou três razões que fazem com que se retenha moeda
+existe uma retenção de moeda uma demanda de moeda por motivo transação
+existe uma demanda de moeda por motivo precaução
+es esses dois tipos de demanda de moeda já já foram eh discutidos pelos clássicos
+pelos economistas clássicos
+keynes introduziu uma nova razão pela qual as pessoas demandam moeda guardam moeda
+demanda de moeda por motivo especulação
+então keynes no fundo ele admitia os motivos transação e precaução e adicionou o motivo especulação
+vamos então agora discutir cada um deles
+a demanda de moeda por transação é principal motivo pelos quais as pessoas retêm moeda
+necessitam de moeda
+demandam moeda
+ah basicamente ela se deve à diferença que existe entre as datas de recebimento de renda de salário e os os que a gente efetua ao longo do mês
+basicamente a diferença entre data de pagamento e data de recebimento faz com que exista uma dê uma demanda de moeda uma retenção de moeda
+as pessoas recebem no início do mês mas não gastam de uma vez só
+elas vão gastando aos pouquinhos
+elas são obrigadas a deixar uma certa reserva para o cafezinho para o lanche para o almoço para os gastos normais
+ou seja as pessoas recebem o dinheiro no no início do mês e vão gastando de uma forma gastando aos poucos ao longo do mês
+de tal forma que ela sempre tenha alguma reserva algum dinheiro no bolso
+enfim é uma demanda de moeda para satisfazer as necessidades de transações e de pagamentos
+nós podemos resumir isso num exemplinhos numérico e nós vamos verificar vamos tentar explicar por que a demanda de moeda vamos dar essa notação demanda de moeda por motivo transação é uma função do nível de renda
+renda nominal
+vamos tentar mostrar por que que a demanda de moeda é uma função do nível de renda
+vamos supor que um assalariado receba um milhão e duzentos no início do mês
+e gaste de uma forma homogênea gasta quarenta cruzeiros por dia
+de tal forma que quando chegar no último dia desse mês ele fique exatamente a zero certo
+quarenta cruzeiros por dia ao fim do trigésimo dia ela está a zero
+se ele não receber no dia seguinte está frito
+então é de se supor
+vamos fazer aqui um esqueminha vamos colocar aqui o tempo e aqui neste eixo a quantidade de moeda retida que é a nossa demanda de moeda por transação
+então no primeiro dia ele recebe mil e duzentos
+no primeiro dia então ele tem mil e duzentos no bolso
+ao fim do primeiro dia ele gastou quarenta cruzeiros certo
+cafezinho transporte alimentos
+então ao fim do primeiro dia ele vai ter mil cento e sessenta no bolso
+no segundo dia ele gasta mais quarenta
+então ao fim do segundo dia ele tem mil cento e vinte no bolso
+e assim por diante
+dentro dessa hipótese que ele gaste dessa forma homogênea quarenta cruzeiros por dia ao fim do trigésimo dia ele não tem nada de moeda no bolso
+ele está a zero
+mas na manhã do dia sê ah ou no no fim da tarde dia trinta ele recebe de novo mil e duzentos
+então ele vai ter de novo no bolso ah vai ter mil e duzentos novamente de moeda
+e comé e reinicia o ciclo
+então deve ocorrer algo deste tipo
+eu quero encontrar aqui uma ah encontrar aqui uma expressão para a demanda de moeda
+qual é o saldo médio retido ou a quantidade de moeda retida ou demandada certo
+a demanda de moeda é sinônimo de retenção de moeda de guarda de moeda no bolso
+de necessidade de moeda
+raciocinem assim
+quanto na média ele vai ter de moeda em média quanto ele vai ter no bolso
+seria no fundo pegar mil e duzentos mais mil cento e sessenta mais mil cento e vinte mais mil zero oitenta e até mais zero e dividir por trinta isto aqui vai dar uma média de seiscentos cruzeiros certo
+então na média ele vai ter seiscentos cruzeiros no bolso
+evidentemente tem dia que ele tem um milhão e duzentos outro dia ele tem zero ou tem
+outro dia tem mil cento e sessenta mas também tem um dia que ele tem quarenta
+enfim na média ele deve ter deve ter seiscentos cruzeiros no bolso
+aqui então é a é a demanda de moeda então
+o saldo ou o saldo médio retido
+que é igual a seiscentos cruzeiros que é a nossa demanda de de moeda por motivo transação
+evidentemente se ele receber mais de moeda ah ah se ele receber uma uma um salário maior a quantidade de moeda por motivo transações deve ser maior
+ele deve ter mais necessidade de pagamentos certo de transações diárias de tal forma que há uma correlação direta entre quantidade de moeda que as pessoas necessitam para esse motivo transação né e o nível de renda das pessoas
+eh como a nor as variáveis macroeconômicas são expressas em em termos anuais interessa saber então ah relacionar essa demanda de moeda transações com o nível de renda em termos no ano
+quanto que esta demanda de moeda representa eh da renda anual do sujeito aqui
+a renda mensal é igual a mil e duzentos
+a renda anual então vai ser igual a catorze e quatrocentos né
+o quê
+então demanda de moeda por transações é igual a
+ah quanto que isso daqui rê quanto que seiscentos representa em catorze mil e quatrocentos
+enfim em proporção à renda quanto as pessoas retêm em média de moeda em proporção ao nível de renda
+seria um vinte e quatro avos né
+está certo isso
+então a demanda de moeda é igual a um vinte e quatro avos da renda anual
+chamar de ípsilon
+ou seria um eh um meio da renda mensal
+mas as nossas variáveis macroeconômicas normalmente são expressas em termos anuais
+então da sua renda anual que é catorze mil e quatrocentos as pessoas retêm um vinte quatro avos dessa renda por motivo de transação
+para satisfazer as transações
+de uma forma genérica genericamente essa fórmula é expressa assim
+é igual um cá de ípsilon
+sendo que ípsilon é a renda nominal que é igual então ao nível geral de preços vezes a renda real
+a expressão cá e ípsilon
+cá tem um nomezinho que a gente vai dar
+vocês entenderam
+isso aqui eu estou introduzindo uma nova notação
+estou chamando de ípsilon maiúsculo a renda nominal
+isto é a renda monetária inflacionada
+que é que tem uma componente preço e uma componente que é uma produção física ou renda real
+eu estou pondo aqui termos da notação usual dos livros certo
+ípsilon minúsculo renda real e ípsilon maiúsculo renda nominal
+então a demanda de moeda é uma proporção cá da renda nominal
+ou para simplificar a demanda de moeda é um proporç por motivo transação e uma proporção é uma parcela da renda
+e esse cá esse cá esse coeficiente cá é chamado de coeficiente ah marshalliano devido a marshall que foi o criador um dos expoentes da teoria neoclássica
+que vocês adoram tanto
+o pessoal do centro acadêmico adora tanto
+eh mede a retenção média de moeda em proporção ao nível de renda num dado período de tempo
+período de tempo
+num dado ano certo
+no caso nosso exemplo igual é a um sobre vinte e quatro
+as pessoas retêm um vinte e quatro avos do que recebem de renda em termos de moeda certo
+em média né
+em média a retenção média para satisfazer os seus gastos as suas transações normais os seus pagamentos normais
+aqui evidentemente é mais para efeito didático a gente fez uma coisa assim
+todo mundo sabe que a gente não vai gastar quarenta cruzeiros todo dia bonitinho certo
+ah a coisa deve ser mais ou menos
+no primeiro dia só com aluguel com essas coisas já deve acontecer um negócio assim né
+rigorosamente seria provavelmente um negócio desse jeitão aqui certo
+no primeiro dia você já você tem alguma contas maiores ou nem assim ou talvez até coisas desse tipo certo
+é mais realmente uma para dar uma forma didática
+você está supondo quarenta cruzeiros por dia realmente não é bem assim
+normalmente os primê a tendência é nos primeiros dias do mês você gastar mais certo
+gastar mais com transações principalmente aluguel esse tipo mappin sears esse tipo de coisa
+pessoal então esse é o primeiro e principal motivo pelos quai pelo qual as pessoas eh demandam moeda
+eh é a primeira e a principal razão então pelas quais as pessoas demandam moeda
+isso já era já estava incluído na teoria clássica
+aliás nos vamos sentir na próxima aula um pouquinho melhor a teoria da moeda segundo os clássicos e segundo keynes
+nós vamos confron confrontálas
+então o que me parece claro interessa se parece claro para vocês né ah é que a demanda de moeda por transação depende basicamente de nível de renda
+quanto maior o nível de renda maior a necessidade de transações
+ou de uma outra forma as pessoas mais ricas devem ter mai ah pagamentos maior devem efetuar transações também maiores certo
+então a demanda de moeda por esse motivo é uma função do nível de renda
+e é uma proporção cá desse nível de renda
+graficamente a gente pode colocar então que a demanda de moeda por motivo transação é uma proporção cá ípsilon da renda nominal certo
+é igual um cá e ípsilon certo
+sem intercepto né
+não tem nenhum intercepto então sai da origem
+está okay
+a gente vai ver isso depois esse cá aqui depende basicamente de parâmetros institucionais de grau de verticalização da economia de hábitos da coletividade tudo isso a gente vai discutir um pouquinho melhor depois
+então a demanda de moeda é uma proporção cá a demanda de moeda por transações é uma proporção cá do nível de renda
+é a principal razão pelos quais todos nós agora temos um certo montante de dinheiro no bolso certo
+basicamente ele está pensando na condução amanhã no táxi amanhã na gasolina amanhã
+é uma coisa óbvia né
+bom o segundo motivo pelos quais se retém moeda como tal isto é as pessoas
+bem
+porque que as pessoas ficam com dinheiro no bolso ao invés de comprar o título algo que renda para ele
+ou uma comprar uma casa um imóvel certo
+é essa a ideia
+porque que a moeda é procurada como se fosse um um bem certo
+procurada por terceiros certo
+por ela mesma
+bom como a gente viu oferta na aula passada evidentemente no final no final disso a gente vai juntar demanda e oferta de moeda certo
+e vai estabelecer o equilíbrio do mercado monetário
+demanda de moeda por precaução
+por precaução
+bom as pessoas também mantém um certo montante de moeda no bolso por motivo de precaução
+ah ah sim eu estou usando muito o termo demanda de moeda no bolso ah mas também evidentemente vale a moeda que você tem como depósito
+é uma mô é um dinheiro que você também tem certo
+no bolso aí entendase também ah como depósito
+que no fundo é uma moeda que também você tem disponível certo
+estou usando muito essa expressão no bolso e pode dar ideia um pouquinho errada
+incluise aqui o que as pessoas têm
+enfim o total de moeda que as pessoas retêm tá
+bom pode ser suponhamos que chega no dia trinta ele está a zero e o pagamento dele atrase certo
+então ele está frito
+ele precisa então ele preci
+então aqui surge um novo tipo de demanda de moeda
+ele pode ele precisa deixar uma certa moeda uma certa quantidade de dinheiro como reserva certo
+como reserva para esses imprevistos certo
+recebimentos eh que se atrasam ou então pensando empresas pagamentos que elas esperam contar e não recebem também contas inesperadas como prontosocorro esse tipo de coisa enfim as moe as pessoas também procuram deixar uma um certo montante de dinheiro como para motivos como diz o key ah keynes precaucionais certo
+por motivo de precaução certo
+contra qualquer quebra de rotina nos pagamentos e recebimentos certo
+está claro
+aqui parece evidente também que a demanda de moeda por motivo precaução também é uma função do nível de renda
+é de se esperar que quanto eh quanto mais ah quanto mais ricas as pessoas vamos dizer assim elas devem ter devem também se precaver num elas têm tal eh necessidade eh eh um pouquinho maiores do que a gente certo
+então o pagamento um cara que ganha mil e duzentos e outro ganha dez mil provavelmente esse três dé dé dez mil vai fazer muito mais diferença então ele vai ter que deixar bom isso isso daí é relativo também não fazia diferença mas em termos de quantidade de moeda ele vai ter que deixar uma quantidade maior de moeda guardada
+do que o cara que ganha mil e duzentos certo
+um cara que ganha dez mil deve deixar uma quantidade de moeda por precaução guardada maior do que um cara que ganha mil e duzentos certo
+então nesse sentido a demanda de moeda por precaução é também uma função da do nível de renda
+e ela é confundida com motivo transação
+no momento em que se coloca nesse gráfico a demanda de moeda transação mais precaução são funções então do nível de renda
+agora evidentemente esse tipo de separação que a gen que a gente está fazendo é mais uma separação didática
+não dá para você dizer o dinheiro que você tem no bolso
+não existe uma estimativa disso
+você guarda xis para precaução e xis para
+no fundo a demanda de moeda ah ela depende dos dois tipos de motivos certo
+não dá para a gente separar é apenas de efeito didático isso
+e também então depende do nível de renda
+esses dois motivos anteriores já foram explorado pelos clássicos
+keynes introduziu um novo conceito uma nova razão pelas quais as pessoas retêm moeda
+e foi um potente instrumento para ele ah criticar a teoria clássica principalmente a política monetária clássica
+como a gente vai ver na próxima aula
+é a demanda de moeda por especulação
+ah que é basicamente um conceito trazido por keynes
+no fundo os dois motivos anteriores transação e precaução a moeda cumpre apenas uma uma função de meio de troca de instrumento de troca
+agora keynes introduz a função da moeda basicamente como ah reserva de valor
+as pessoas podem man eh manter dinheiro no bolso sem ser para transações ou para por motivo de precaução
+as pessoas podem manter dinheiro no bolso por exemplo eh eu quero comprar um carro mas por algum motivo eu espero que o preço do carro vá cair eh no mês que vem então eu mantenho o dinheiro em caixa não compro o carro agora compro o mês que que vem certo
+eu estou especulando no fundo eu não tenho certeza mas eu acho que o preço do carro deve cair no mês que vem
+então eu mantenho uma certa quantidade de moeda eh reservada para comprar esse carro no mês que vem
+keynes estava pen não estava pensando bem em carro estava pensando mais em títulos
+ele estava pensando principalmente em ações títulos
+ah keynes pensava o seguinte
+que as pessoas então retêm moeda eh especulando sobre o que vai acontecer com a rentabilidade dos títulos
+por exemplo se as pessoas esperam que uma ação eh vá cair eh vai aumentar a rentabilidade dessa ação no mês que vem as pessoas então deixam de comprar uma ação hoje guardam dinheiro fica o dinheiro guardado para comprar no mês que vem aquela ação que é que ele espera uma rentabilidade maior
+no mês que vem
+ele espera uma rentabilidade futura maior do que uma rentabilidade presente
+isto é ele procu ele não compra o título hoje ele não compra a ação hoje compra a ação uh a semana que vem certo porque ele espera aquele que pode dar errado
+mas ele espera que vai ser mais vantajoso para ele
+isso que keynes se referia como uma guarda uma retenção de moeda por motivo especulação
+as pês as pessoas especulam sobre a rentabilidade futura dos títulos
+basicamente assim que keynes pensava
+ele não falava tanto de de imóveis e carro
+bom vamos então entender porque que então existe demanda de moeda pres por especulação
+existe esse tipo de demanda de moeda porque existe uma expectativa sobre rentabilidade futura
+bom escrever isso daí
+então por que que que existe a demanda de moeda por especulação
+esse esse novo tipo de demanda que não é nem para transações nem para precaução
+é por um terceiro motivo certo
+então demanda de moeda especulação porque ah as pessoas julgam que a rentabilidade
+desse dinheiro ah seja maior que a rentabilidade
+evidentemente eh rentabilidade futura da aplicação desse dinheiro
+fica melhor né
+da aplicação desse dinheiro seja maior que a rentabilidade atual
+isto é se ele aplicasse
+vamos por ah para ficar bem claro rentabilidade hoje
+vocês entenderem bem
+no fundo uma diferença entre rentabilidade futura e rentabilidade presente que vai determinar a demanda de moeda por especulação
+eh escrevendo assim na lousa porque isso aqui é um negocinho um pouquinho
+eu quero que vocês anotem
+isso que eu estou escrevendo
+eu anoto na eu escrevo na lousa porque eu quero que vocês anotem
+eh quando vocês forem estudar vocês é para ficar mais fácil
+tem um negócio um pouquinho cabeludo
+ah bom do que depende do que depende ou seja o a demanda de moeda por especulação depende do quê
+ela depende da rentabilidade futura e evidentemente essa guarda essa retenção de moeda vai trazer um custo para ele
+o fato dele não estar aplicando esse dinheiro não estar comprando uma ação hoje estar retendo a moeda deixando a moeda ociosa ah vai me ah vai lhe custar alguma coisa
+e qual vai ser esse custo
+vai ser o o que ele deixa de ganhar ao aplicálo
+é um custo de oportunidade certo
+então ela depende do do custo vamos por em termos bem do custo ah do que deixou de ganhar do que deixou de ganhar ao não aplicála não aplicar o dinheiro hoje
+ou seja de uma forma mais técnica depende do custo de oportunidade
+custo de oportunidade de se reter moeda
+e qual é o custo de oportunidade de você reter moeda
+é ah é o que você deixa de ganhar na alternativa de comprar um título comprar uma ação certo
+quê
+do que deixou de ganhar ao ah ele deixou de ganhar ao não aplicar o dinheiro hoje
+você entendeu
+mas você entendeu
+enfim eu acho que ficou bem claro isso daí
+ah agora a demanda de moeda então por especulação ela depende do que as pessoas esperam ganhar no futuro certo e do que deixaram de ganhar no presente especulando sobre o futuro certo
+está especulando no fim no fundo sobre a rentabilidade futura
+por isso tem nome de demanda de moeda por especulação
+eu vou depois a gente vai discutir isso keyna keynes deu uma ênfase exagerada a esse tipo de motivo
+provavelmente ele é o menos importante dos três
+mas keynes deu uma ênfase exagerada porque na época realmente era um problema
+foi um instrumental que permitiu a ele fazer críticas profundas à teoria clássica
+mostrar realmente que tem situações em que a teoria clássica não resolve o problema
+depois a gente vai ver
+bom eu estou
+pois não
+quê
+quando ele formulou essa teoria
+não ele formulou essa teoria após em mil novecentos e trinta e seis
+tratado geral dos juros do dinhei da da moeda e do emprego mil novecentos e trinta e seis
+quê
+já tinha dado
+foi a partir da observação do do crack da bolsa de nova iorque que ele construiu a teoria
+isso a gente vai discutir um pouquinho melhor
+ah você já parece que já conhecem alguns dos conceitos que a gente vai discutir
+ele mostra por exemplo em mil novecentos e vinte uma situação conhecida como a armadilha da liquidez em que especificamente neste caso a teoria clássica não funciona e aí é que ele propõe uma alternativa
+o keynes teve uma teoria vamos dizer do lado real
+a função consumo basicamente é uma noção keynesiana
+não existia ah esse conceito
+eh pelo menos como uma função macro macroeconômica agregada
+e do lado da teoria monetária ele ele introduziu o conceito de demanda especulativa de moeda
+ou no fundo como a taxa de juros vai afetar a parte monetária do sistema
+porque na teoria clássica ah o lado monetário não era afetado pelas taxas de juros
+isso a gente vai vocês aguardem aí nós vamos discutir na próxima aula
+aliás sobre taxa de juros taxa de juros ela tem um monte de sentidos
+eh nós vamos associar taxa de juros como sendo esse rendimento certo
+é o rendimento que as pessoas é a taxa rendimento que as pessoas obtêm ao comprar um título
+então a taxa de juros é é o ganho é o rendimento rendimento percentual né
+rendimento percentual na compra de um título
+portanto ela representa em termos de moeda é o custo de se reter moeda isto é demandar moeda então é o custo de se reter moeda
+ou seja é o que ele ganharia se vocês podem anotar aí é o que ele ganharia se comprasse o título certo
+nós estamos fazendo uma simplificação bastante não só nós toda teoria faz isso taxa de juros existe uma infinidade de taxa de juros nós estamos jogando como taxa de juros tudo que é tudo que é rendimento sobre título
+ó erre tê ene ele tê eme ações certo eh bônus debêntures evidente
+então existe uma infinidade de taxa de juros
+e a gente está supondo como se fosse uma coisa só
+uma taxa de juros agregada
+mas na realidade existe uma família de taxa de juros certo
+mas para simplificar a exposição a gente sempre supõe como se fosse única está okay
+bom então nesse sentido no fundo o que eu estou querendo estabelecer assim como estabeleci como oferta de moeda uma relação entre ofer entre moeda e taxa de juros
+e é essa e como é como é fê como foi feito por keynes
+basicamente ele ele deu um papel bastante importante à taxa de juros como a gente falou
+então no fundo a demanda de moeda especulativa ela depende da taxa de juros futura e da taxa de juros presente
+aqui vista mais como um rendimento né
+aqui como um custo de se manter moeda
+de se manter moeda
+então por que existe então esse tipo de demanda de moeda por que as pessoas podem guardar moeda sem que seja para o cafezinho para a condução ou por eh medo de que deixem de receber algum dinheiro
+isto é por que as pessoas guardam moeda sem ser por transação e por precaução
+basicamente então porque elas julgam que elas guardando dinheiro hoje isto é demandando moeda hoje elas podem com isso ganhar ter uma rentabilidade maior no futuro
+e do que depende
+ela depende ela é uma função da taxa de juros futura e da taxa de juros presente
+agora em termos mais operacionais ah a taxa de juros futura é uma coisa que você não tem certeza
+e há uma certa relação entre taxa de juros presente e a taxa de juros futura
+futura
+é de se esperar que quando a taxa de juros presente ou corrente aumente ah as pessoas eh um grupo de pessoas espera que a taxa de juros futura caia
+se está aumentando muito o rendimento hoje a maioria das pessoas devem esperar que como esse rendimento ah aumentou hoje é de se esperar que ele tenha uma tendência a cair no futuro
+ou seja é possível eh estabelecerse uma relação inversa entre taxa de juros corrente e taxa de juros futura
+é de se esperar então não todos evidentemente mas a maioria das pessoas deve julgar que com o aumento do rendimento corrente dos títulos o rendimento futuro deve aumentar
+isto é se há um aumento grande na rentabilidade sobre as ações hoje grande parte das pessoas deve esperar que esse rendimento deva cair no futuro
+então e o que deve ocorrer com a demanda de moeda por especulação
+a retenção de moeda por especulação deve deve cair
+então há uma relação inversa entre será corrente entre a demanda de moeda por especulação e a taxa de juros corrente
+colocando a demanda de moeda apenas como função da taxa de juros corrente
+porque você não conhece a taxa de juros futura
+você quer fazer um modelo operacional
+ah tem uma explicação um pouquinho melhor
+uma explicação do porquê há uma relação inversa entre retenção de moeda por especulação e taxa de juros corrente
+é de se esperar que então quando aumenta a taxa de juros corrente é o custo custo e a oportunidade de se reter moeda aumenta
+isto é eh com a taxa de juros ou a taxa de rendimentos títulos ah aumentando hoje fica mais custa mais para você guardar dinheiro e não comprar o título
+então as pessoas têm a tendência de quando então aumenta a taxa de rendimento dos títulos eh de comprar títulos e então reter menos de moeda certo
+com o aumento do rendimento
+taxa de juros como um rendimento
+de fato a gente está acostumado a raciocinar em taxa de juros a gente pagando
+não vamos esquecer que os bancos recebem certo
+e daqui e aqui é o ponto de vista de quem demanda moeda certo
+de quem retém moeda
+é esse o ponto de vista que a gente tem que ver a taxa de juros
+então para essa pessoa taxa de juros é a taxa de rendimento
+é o que ele poderia ganhar se aplicasse

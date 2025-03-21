@@ -1,0 +1,14 @@
+Processing started at 20/03/2025 16:15:59,74 
+ 
+Parameters: 
+  min_sim=0.5 
+  min_seq_sim=0.5 
+  min_str_sim=0.5 
+  max_wer=0.5 
+  pa=15 
+  ps=0.3 
+  a=0.5 
+ 
+Processing [0/18]: entoa_tts_auto_SP_D2_255.txt and entoa_tts_prosodic_SP_D2_255.txt 
+  Output directory: aligns_0.5_0.5_0.5_0.5_15_0.3_0.5\entoa_tts_auto_SP_D2_255.txt 
+  Running Python aligner... 
