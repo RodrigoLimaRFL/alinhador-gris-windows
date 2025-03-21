@@ -1,0 +1,1 @@
+# alinhador-gris-windows
